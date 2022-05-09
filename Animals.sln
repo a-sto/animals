@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsHost", "src\AnimalsHost\AnimalsHost.csproj", "{352119F3-1AF3-42BA-A390-3FC444EB3076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsHostTests", "test\AnimalsHostTests\AnimalsHostTests.csproj", "{0926675F-D876-433F-B3DB-8F6B3FE7446A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352119F3-1AF3-42BA-A390-3FC444EB3076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352119F3-1AF3-42BA-A390-3FC444EB3076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352119F3-1AF3-42BA-A390-3FC444EB3076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352119F3-1AF3-42BA-A390-3FC444EB3076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0926675F-D876-433F-B3DB-8F6B3FE7446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0926675F-D876-433F-B3DB-8F6B3FE7446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0926675F-D876-433F-B3DB-8F6B3FE7446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0926675F-D876-433F-B3DB-8F6B3FE7446A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
